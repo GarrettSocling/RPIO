@@ -7,8 +7,8 @@ def read(fname):
 
 
 setup(
-    name="RPIO",
-    version="0.10.1",
+    name="tingbot-RPIO",
+    version="0.11",
     package_dir={"": "source"},
     packages=['RPIO', 'RPIO.PWM'],
     ext_modules=[
